@@ -179,7 +179,7 @@ export default function HomePage() {
           <div className="text-center mb-12">
             <h3 className="text-3xl font-bold text-gray-900 mb-4">Featured Kenyan Products</h3>
             <p className="text-lg text-gray-600">
-              Carefully curated items from local artisans s across Kenya
+              Carefully curated items from local artisans and businesses across Kenya
             </p>
           </div>
 
