@@ -116,7 +116,7 @@ export default function HomePage() {
 
             <div className="flex items-center space-x-4">
               <Link href="/admin">
-                <Button variant="outline">Admin Dashboard</Button>
+                <Button variant="outline">Admin dashboard</Button>
               </Link>
               <Button className="relative bg-orange-600 hover:bg-orange-700">
                 <ShoppingCart className="h-4 w-4 mr-2" />
