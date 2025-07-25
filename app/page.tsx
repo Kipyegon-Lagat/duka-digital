@@ -39,7 +39,7 @@ const products = [
   },
   {
     id: 3,
-    name: "Safari Adventure Hat",
+    name: "Adventure Hat",
     price: 1800,
     image: "/images/safari-hat.jpg",
     category: "Fashion & Accessories",
