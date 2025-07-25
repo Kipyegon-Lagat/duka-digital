@@ -190,7 +190,7 @@ export default function HomePage() {
                   type="search"
                   title="No products found"
                   description={`Sorry, we couldn't find any products matching "${searchTerm}". Try adjusting your search or browse our categories.`}
-                  actionLabel="Clear Search"
+                  actionLabel="Clear  Search"
                   onAction={() => setSearchTerm("")}
                 />
               </div>
