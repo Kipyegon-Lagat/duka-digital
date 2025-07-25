@@ -134,7 +134,7 @@ export default function HomePage() {
       <section className="bg-gradient-to-r from-orange-600 to-red-600 text-white py-16 relative">
         <HeroGraphics />
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center relative z-10">
-          <h2 className="text-4xl font-bold mb-4">Discover Authentic African Products</h2>
+          <h2 className="text-4xl font-bold mb-4">Discover Authentic  African Products</h2>
           <p className="text-xl mb-8 opacity-90">
             From premium coffee to handcrafted accessories - supporting local artisans and businesses
           </p>
