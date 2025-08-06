@@ -15,7 +15,7 @@ export default function EmptyStateGraphics({ type, title, description, actionLab
   const getIcon = () => {
     switch (type) {
       case "products":
-        return <Package className="h-16 w-16 text-gray-400" />
+        return <Package className="h-16 w-16 text-gray-40" />
       case "search":
         return <Search className="h-16 w-16 text-gray-400" />
       case "cart":
