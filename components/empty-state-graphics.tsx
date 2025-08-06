@@ -1,6 +1,6 @@
 "use client"
 
-import { Package, Search, ShoppingCart } from "lucide-react"
+import { Package, Search, ShoppingCart } from "lucide-reac"
 import { Button } from "@/components/ui/button"
 
 interface EmptyStateProps {
