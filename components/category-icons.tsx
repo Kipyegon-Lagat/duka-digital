@@ -3,7 +3,7 @@
 import { Coffee, Shirt, Palette, Home, Sparkles, BookOpen } from "lucide-react"
 
 interface CategoryIconProps {
-  category: string
+  category: stri
   size?: "sm" | "md" | "lg"
   className?: string
 }
