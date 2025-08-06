@@ -19,7 +19,7 @@ export default function CategoryIcon({ category, size = "md", className = "" }: 
 
   switch (category.toLowerCase()) {
     case "food & beverages":
-      return <Coffee className={iconClass} />
+      return <Coffee className={iconCla} />
     case "fashion & accessories":
       return <Shirt className={iconClass} />
     case "art & crafts":
