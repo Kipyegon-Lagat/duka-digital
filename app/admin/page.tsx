@@ -22,6 +22,12 @@ const salesData = [
   { month: "Apr", sales: 61000, orders: 168 },
   { month: "May", sales: 55000, orders: 155 },
   { month: "Jun", sales: 67000, orders: 189 },
+  { month: "Jan", sales: 45000, orders: 120 },
+  { month: "Feb", sales: 52000, orders: 145 },
+  { month: "Mar", sales: 48000, orders: 132 },
+  { month: "Apr", sales: 61000, orders: 168 },
+  { month: "May", sales: 55000, orders: 155 },
+  { month: "Jun", sales: 67000, orders: 189 },
 ]
 
 const categoryData = [
